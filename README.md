@@ -1,5 +1,5 @@
 # PSPNet-Semantic-Segmentation-CityScape
-This project implemented road object semantic segmentation in Pytorch with PSPNet(EfficientNet Backbone) and CityScape dataset.
+This project implemented road object semantic segmentation in Pytorch with PSPNet (EfficientNet Backbone) and CityScape dataset.
 ![image](https://user-images.githubusercontent.com/75484465/174480553-b4f60fa9-ff80-4634-aaf2-51d42f53bf43.png)
 
 
