@@ -8,7 +8,15 @@ This project implemented road object semantic segmentation in Pytorch with PSPNe
 2. Then, run the **preprocess.ipynb** to turn the data into a .npz file to train the PSPNet later.
 3. Finally, run the **project_PSPNet.ipynb** to train and test the PSPNet!
 
+## Implementation Details
+- Epoch: 45
+- Learning rate: 0.0005
+- Weight decay: 0.0001  
+
 ## Results
+
+- Pixel Accuracy: 81.5%
+- mIoU: 41.1% 
 
 ![image](https://user-images.githubusercontent.com/75484465/174480706-878b07c3-b670-43e6-b28b-b82163764388.png)
 ![image](https://user-images.githubusercontent.com/75484465/174480717-0d3eb744-17a6-45b2-95da-1fc31aaa3bb8.png)
